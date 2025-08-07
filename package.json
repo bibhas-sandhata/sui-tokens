@@ -1,0 +1,42 @@
+{
+  "name": "sui-tokens",
+  "version": "1.0.0",
+  "description": "Token system for Sandhata Native Design (SANDUI)",
+  "keywords": [
+  "scss",
+  "sass",
+  "design-tokens",
+  "design-system",
+  "utility-classes",
+  "css-utilities",
+  "atomic-css",
+  "style-tokens",
+  "spacing-tokens",
+  "color-tokens",
+  "typography-tokens",
+  "z-index-tokens",
+  "scss-variables",
+  "frontend",
+  "ui-library",
+  "component-library",
+  "theme-tokens",
+  "scss-utils"
+],
+  "main": "./src/index.scss",
+  "style": "./src/index.scss",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Bibhas Ash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bibhas-sandhata/sui-tokens.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "sass-embedded": "^1.90.0"
+  }
+}
